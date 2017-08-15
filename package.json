@@ -1,0 +1,9 @@
+{
+  "name": "nodelib",
+  "version": "1.0.0",
+  "description": "testing node library packaging",
+  "main": "index.js",
+  "repository": "git@github.com:runelk/nodelib.git",
+  "author": "me",
+  "license": "MIT"
+}
